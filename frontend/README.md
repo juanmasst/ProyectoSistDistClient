@@ -1,3 +1,6 @@
+# SISTEMAS DISTRIBUIDOS 2025 - UDA
+## Alumno Juan Manuel Massotto Lasagno - Legajo: 113842 
+
 # Frontend - Foro Chat
 
 Este proyecto es un frontend moderno para un sistema de foro con chat, usando Vite + React + TypeScript + TailwindCSS + Auth0.
